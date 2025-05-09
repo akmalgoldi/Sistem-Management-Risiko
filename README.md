@@ -58,9 +58,4 @@ Sistem Manajemen Risiko adalah aplikasi web berbasis PHP dan MySQL yang dirancan
 - Disarankan menggunakan PHP ≥ 7.4 dan MySQL ≥ 5.7
 - Aplikasi ini masih dalam tahap pengembangan dan dapat diperluas untuk multi-organisasi
 
----
-
-## 🧑‍🎓 Tentang Saya
-
-Mahasiswa yang tertarik dalam pengembangan aplikasi dan data, dengan minat khusus pada **data science**, **machine learning**, dan **manajemen sistem**. 🚀
 
